@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Lendf.Me ERC777 reentrancy — one block before attack
+fork_block_number = 9899738
